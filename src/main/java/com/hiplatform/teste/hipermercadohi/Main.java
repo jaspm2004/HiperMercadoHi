@@ -9,7 +9,7 @@ public class Main {
     public static void main(String[] args) {
         
         TipoItem tipo;
-        double custo = 20;
+        double custo = 100;
         int validade = 30;
         double preco;
         
